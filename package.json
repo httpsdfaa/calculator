@@ -1,0 +1,14 @@
+{
+  "name": "app-electron",
+  "version": "1.0.0",
+  "description": "app-calculator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Deivison-code",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.5"
+  }
+}
